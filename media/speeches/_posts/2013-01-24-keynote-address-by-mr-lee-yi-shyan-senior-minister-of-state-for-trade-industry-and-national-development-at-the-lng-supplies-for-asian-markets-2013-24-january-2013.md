@@ -7,7 +7,7 @@ permalink: /media/speeches/keynote-address-by-mr-lee-yi-shyan-senior-minister-of
 
 ### KEYNOTE ADDRESS BY MR LEE YI SHYAN, SENIOR MINISTER OF STATE FOR TRADE & INDUSTRY AND NATIONAL DEVELOPMENT, AT THE LNG SUPPLIES FOR ASIAN MARKETS 2013, 24 JANUARY 2013
 
-Conference co-chairmen, Dr Andy Flower and Dr Fereidun Fesharaki, Distinguished Guests
+Conference co-chairmen, Dr Andy Flower and Dr Fereidun Fesharaki, Distinguished Guests  
 Ladies and Gentlemen
 
 Good morning. Thank you for inviting me to be part of this conference.
@@ -41,6 +41,6 @@ Good morning. Thank you for inviting me to be part of this conference.
 **Conclusion**
 
 12.It is clear that the emergence of new supplies is shaping a new global LNG market. Singapore, as one of the energy centres in the world, has a keen interests in the development. We therefore welcome this conference and the insights it will bring. On this note, I wish you all a fruitful and rewarding time at this year’s conference. Thank you.
-<br><br><br>>
+<br><br><br>
 
 *Source*: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry Singapore</a>](https://www.mti.gov.sg/)
