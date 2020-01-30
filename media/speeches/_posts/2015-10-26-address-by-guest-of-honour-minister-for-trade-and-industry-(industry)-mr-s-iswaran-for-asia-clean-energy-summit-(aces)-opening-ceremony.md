@@ -65,9 +65,8 @@ ___
 
 [5] PV Magazine. Conergy to build Indonesia’s first utility-scale PV plant; announces 62 MW Philippines project. October 2015.
 
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
+<style type='text/css'>
 	li { list-style-type: lower-roman; padding-left: 10px}
     .content li > ul { margin-top: 0px !important; }
     .content ul > li:last-child { margin-top: 0px !important; }
-</style>")
+</style>
