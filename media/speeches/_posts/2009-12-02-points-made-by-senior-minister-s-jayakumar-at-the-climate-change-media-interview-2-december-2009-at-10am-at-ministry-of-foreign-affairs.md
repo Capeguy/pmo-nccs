@@ -11,7 +11,8 @@ permalink: /media/speeches/points-made-by-senior-minister-s-jayakumar-at-the-cli
 PM, SM/CMNS and Min (EWR) will attend the Copenhagen Conference. 
 
 We have actively participated in the talks. We have taken a whole of Government approach in our preparations. In 2007, we set up the Inter-Ministerial Committee on Climate Change (IMCCC)to study this issue carefully. The IMCCC, which I chair, comprises the Ministers from 6 Ministries - MFA, MTI, MEWR, MND,MOF, and MOT. In addition, we set up the Inter-Ministerial Committee on Sustainable Development (IMCSD), co-chaired by MND and MEWR, in January 2008 to give sustainable development a stronger focus. Energy efficiency is a key thrust of the Sustainable Singapore blueprint, which was released in May this year.
-<br><br><br>
+<br><br><br><br>
+<style> h4 { margin-top: 20px; }</style>
 
 **STATE OF PLAY AT UNFCCC NEGOTIATIONS**
 
