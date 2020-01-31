@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World Water Day Celebrations 2014 at Marina Barrage - Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean
-subtitle: 14 Mar 2014
+subtitle: 15 Mar 2014
 permalink: /media/speeches/world-water-day-celebrations-2014-at-marina-barrage---speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean
 ---
 
@@ -46,5 +46,6 @@ Boys and girls
 12. As we mark World Water Day, it is timely to remember the importance of water, and the progress that Singapore has made in our water supply since the 1960s, when water rationing was last carried out. Let us all do our part to save water, and spread the message of water conservation. Let us also work towards more innovative solutions that conserve both water and energy. Together, we can create a more sustainable Singapore for the future.
 
 13. Thank you.
+<br><br><br> 
 
 Source: [<a href="https://www.mha.gov.sg/" target="_blank">Ministry of Home Affairs</a>](https://www.mha.gov.sg/)

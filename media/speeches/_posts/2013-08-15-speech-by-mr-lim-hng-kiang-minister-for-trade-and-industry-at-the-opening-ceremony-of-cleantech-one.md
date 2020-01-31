@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech by Mr Lim Hng Kiang Minister for Trade and Industry at the Opening Ceremony of CleanTech One
-subtitle: 14 Aug 2013
+subtitle: 15 Aug 2013
 permalink: /media/speeches/speech-by-mr-lim-hng-kiang-minister-for-trade-and-industry-at-the-opening-ceremony-of-cleantech-one
 ---
 
@@ -58,6 +58,7 @@ I share Dr Loo's excitement about the promising beginnings of the CleanTech Park
 With this green ecosystem taking shape, I am confident that CleanTech Park will lead the way in creating a conducive and sustainable environment within which cleantech businesses can thrive.
 
 I wish JTC and the tenants of CleanTech One every success as they continue to push the boundaries of innovation and scale new heights. Thank you.
+<br><br><br> 
 
 Source: [<a href="https://www.jtc.gov.sg/Pages/default.aspx" target="_blank">JTC Corporation</a>](https://www.jtc.gov.sg/Pages/default.aspx)
 
