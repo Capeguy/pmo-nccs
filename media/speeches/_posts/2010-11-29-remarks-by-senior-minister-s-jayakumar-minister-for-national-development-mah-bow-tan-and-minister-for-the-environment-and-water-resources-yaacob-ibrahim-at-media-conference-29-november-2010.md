@@ -15,8 +15,6 @@ The UN Climate Change Conference (COP-16) starts today in Cancun in Mexico. Our 
 
 Minister Yaacob and I will leave for Cancun next week to attend the High-level Segment of the Conference.  
 <br>
-<br>
-<br>
 **CURRENT STATE OF PLAY**
 
 Last year, we failed to reach a comprehensive global agreement in Copenhagen. 
@@ -31,14 +29,13 @@ Second, views of developed and developing countries are still polarised on some 
 
 * Many developing countries worry about provisions to increase transparency. As a result, no agreement yet from developing countries on how their pledges should be measured, reported and verified - important elements in any legally binding agreement.
 
-* Developing ountries also want developed countries to take greater responsibility for their past emissions.
+* Developing countries also want developed countries to take greater responsibility for their past emissions.
 
 * Developed countries, on the other hand, want developing countries to curtail their future emissions.
 
 Third, a small group of countries are politically opposed to the CA and any elements associated with it. They say that the CA was not negotiated transparently. So moving the negotiations forward on the basis of the CA has been difficult, even though the CA represents a good basis for negotiations.  
 <br>
-<br>
-<br>
+
 
 **MANY ATTEMPTS MADE TO REACH AGREEMENTS**
 
@@ -53,8 +50,6 @@ The general consensus is that in Cancun, we must work towards a "balanced packag
 Although decisions are not legally binding in nature, a balanced package of decisions in Cancun will send a strong signal that countries remain committed to the process and will help to put things back on track. However, there is still no consensus on what exactly would constitute a "balanced package" with different countries placing emphasis on different elements. 
 
 We need to look at climate change negotiations as a long-term process. We will have the next COP-17 in South Africa end 2011. South Korea and Qatar are now bidding to host COP-18 the following year. Cancun is one stepping stone in the process.  
-<br>
-<br>
 <br>
 
 **SINGAPORE'S POSITION ON A "BALANCED PACKAGE"**
@@ -77,8 +72,7 @@ What is the best case scenario? If political will is present, it is possible tha
 
 Can this be achieved? It all depends on the major players. The main ingredient is what it has always been, i.e. "political will". If countries, particularly the major countries, are willing to make some incremental progress, then it will be possible.  
 <br>
-<br>
-<br>
+
 
 **DOMESTIC PREPARATIONS**
 
@@ -98,8 +92,6 @@ I don't want to load you with details on organisation, but suffice to mention th
 
 Since I have spoken at length on the international negotiations, let me say something about the other two aspects.  
 <br>
-<br>
-<br>
 
 **MITIGATION**
 
@@ -115,16 +107,12 @@ Our 16 per cent BAU pledge goes beyond the SSB. Achieving this will entail signi
 
 The inter-agency Mitigation Working Group (MWG), headed by MTI and MOF, is studying the policies and measures that would be needed from a whole-of-government perspective. The principle is to put in place cost-effective mitigation measures through an appropriate mix of price signals, fiscal incentives and regulations.  
 <br>
-<br>
-<br>
 
 **CARBON PRICING**
 
 As PM mentioned recently at the Singapore Energy Lecture 2010, the best approach is to apply a carbon price. This way, energy prices will take into account the social cost of carbon emissions. 
 
 If there is a global deal to curb carbon emissions and we have to reduce our own emissions more sharply to comply with international obligations, we will have to make the carbon price explicit to send the right price signals.  
-<br>
-<br>
 <br>
 
 **RESILIENCE**
@@ -142,8 +130,6 @@ Additional studies are also planned and will be carried out in tandem with advan
 As our understanding of climate impacts grow, we will be better able to refine and improve on our adaptation measures. 
 
 As a result of Singapore's long-term approach to infrastructure planning, some measures are already in place that would address the potential impacts of climate change in the short to medium term. For example, since 1991, the PUB has required new reclamation projects to be built at least 125cm above the highest recorded tide level. Agencies will keep up to date with developments in climate science and carry out regular reviews of the sufficiency of Singapore's existing infrastructural measures.  
-<br>
-<br>
 <br>
 
 **CONCLUSION**
@@ -172,8 +158,6 @@ On vulnerability, we are looking into various effects of climate change. Althoug
 
 Climate change is a long-term issue that the world and Singapore will have to grapple with for many decades to come. We must all play our part and continue to contribute towards securing a sustainable living environment for our future generations.  
 <br>
-<br>
-<br>
 
 **Remarks by Minister for National Development Mah Bow Tan**
 
@@ -183,14 +167,10 @@ One major challenge is in the area of improving our energy efficiency, given the
 
 The SSB set targets to reduce our energy intensity (energy consumption per GDP). By improving our energy efficiency, we would also be able to reduce our emissions growth, and this will contribute to the -16 per cent BAU pledge.  
 <br>
-<br>
-<br>
 
 **SUSTAINABLE DEVELOPMENT EFFORTS**
 
 Since the adoption of the SSB in Apr 2009, the Government has launched many initiatives. I would like to briefly touch on some key developments and achievements.  
-<br>
-<br>
 <br>
 
 **SOLAR PANELS IN HDB ESTATES**
@@ -199,8 +179,6 @@ Our efforts to make our public housing estates more resource efficient are progr
 
 In addition, Singapore’s first eco-precinct, Treelodge@Punggol, will be completed by the end of the year. It is the first public housing project to be awarded Green Mark Platinum, and incorporates green technologies and innovations such as centralised recyclable refuse chutes, a rainwater collection system and green roofs.  
 <br>
-<br>
-<br>
 
 **BIODIVERSITY**
 
@@ -208,14 +186,10 @@ The Singapore Index on Cities’ Biodiversity was adopted at the 10th Conference
 
 Our efforts include: (a) enhancing our native ecosystems and habitats such as mangrove restoration work and coral nursery; (b) reintroducing extinct species, e.g. hornbills; and (c) increasing our public awareness programmes. These initiatives will contribute to improving our biodiversity.  
 <br>
-<br>
-<br>
 
 **TRANSPORT**
 
 The Government has been investing heavily in public transport infrastructure to encourage more to take the public transport. Since 2009, an addition of 20km has been added to the Rail Transit network, with the operation of Boon Lay Extension and Circle Line (Stages 1 - 3). We are also on track in our efforts to integrate our bus and rail services through the provision of the 4th Integrated Transport Hub (ITH) at Boon Lay. Two more ITHs at Serangoon and Clementi will be completed by 4Q10 and 2011 respectively.  
-<br>
-<br>
 <br>
 
 **NATIONAL CYCLING PLAN**
@@ -223,8 +197,6 @@ The Government has been investing heavily in public transport infrastructure to 
 In line with the National Cycling Plan, we are promoting cycling as an environmental friendly and healthy transport option for intra-town travel to transport nodes and key amenities. There is also a longer term plan to implement an extensive network of cycling paths in Marina Bay. 
 
 The development of the cycling infrastructure at HDB towns is progressing as planned. The first phase of cycling paths in Tampines has been completed. A section of tracks will be completed in Taman Jurong by the end of the year. The remaining cycling paths in Tampines and Taman Jurong as well as Yishun, Sembawang, Pasir Ris, Bedok and Changi-Simei are on schedule to be completed by 2014.  
-<br>
-<br>
 <br>
 
 **GREEN BUILDINGS**
@@ -243,8 +215,6 @@ The Government will continue to extend our R&D efforts to pilot-test new green t
 
 While we continue with promotional efforts and incentives and monitor the results, we may need to mandate minimum standards for existing buildings. While such a measure will impose additional retrofitting costs on the industry, there will be energy savings which building owners will enjoy eventually. We will consult the industry and study this regulatory option carefully before making a decision.  
 <br>
-<br>
-<br>
 
 **INDUSTRY**
 
@@ -256,8 +226,6 @@ Among large energy users in industry, a range of energy management practices exi
 
 To help companies prepare for these requirements, NEA launched the Energy Efficiency National Partnership in April 2010. This platform promotes efficiency on an organisational level, and helps companies put in place their own energy productivity improvement projects. A total of 87 companies have joined as Partners of EENP so far.  
 <br>
-<br>
-<br>
 
 **CONCLUSION**
 
@@ -267,8 +235,6 @@ The commitment required of us in a legally-binding agreement under the -16 per c
 
 
 #### Remarks by Minister for the Environment and Water Resources Yaacob Ibrahim  
-<br>
-<br>
 <br>
 
 **MITIGATION**
@@ -283,16 +249,12 @@ MEWR has also made much effort to raise awareness about energy saving behaviour,
 
 Lowering our energy intensity and carbon emissions is not solely a Government effort, as we need everyone on board to make steady progress towards a more sustainable and climate friendly Singapore. It is important to remember that we are not doing this to satisfy an external commitment, but because Singaporeans first and foremost will enjoy the benefits.  
 <br>
-<br>
-<br>
 
 **RESILIENCE**
 
 Singapore’s climate change strategy must also prepare Singapore to be resilient to potential impacts. 
 
 MEWR and MND head the Resilience Working Group (RWG), which is studying Singapore’s physical vulnerability to the impacts of climate change. The RWG will develop appropriate adaptation plans to ensure Singapore is able to cope with climate change. This is not a trivial task, as there are many aspects to vulnerability. Climate science is complex and still evolving. But work is already under way.  
-<br>
-<br>
 <br>
 
 **CLIMATE CHANGE STUDIES**
@@ -302,8 +264,6 @@ The Government commissioned a Climate Change Study to examine Singapore’s vuln
 We are now looking into the corresponding impacts on energy demand, heat stress, coastal land loss, flooding, water supply, public health, and biodiversity. Phase 2 of the Climate Change Study has been commissioned and will look at these secondary effects. We are also conducting a Risk Map study that identifies specific coastal areas at risk of inundation, as well as the associated expected damages. The study will commence by the end of this year, and is expected to be completed by 4Q 2013. 
 
 The climate system is a dynamic area of research, so study findings will be reviewed and updated as climate science evolves. Additional studies will be carried out in tandem with new advances in science. We see this as a continuing process of extending our knowledge and institutional capabilities. Over time, we will develop a strong core of expertise in climate science and modelling within Singapore, as well as collaborate with international experts to ensure that our understanding is both current and comprehensive.  
-<br>
-<br>
 <br>
 
 **PROGRESS ON ADAPTATION**
